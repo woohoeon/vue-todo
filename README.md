@@ -146,3 +146,7 @@ npm install --save-dev jest-serializer-vue
   }
 }
 ```
+
+# Preview:
+
+Try it on [GitHub Pages](https://woohoeon.github.io/vue-todo/)
